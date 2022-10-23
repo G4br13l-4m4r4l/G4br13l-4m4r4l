@@ -1,6 +1,6 @@
 ### Hello Github! Eu sou o Gabriel🚀
 
-- 🌱 Estudando atualmente React js
+- 🌱 Estudando atualmente PHP
 - 🤔 Procuro ajudar e ser ajudado além de aprender cada dia uma coisa nova
 - 📫 Contate-me: dev.gabriel.amaral@gmail.com
 - ⚡ Fun fact: Apaixonado por tecnologia desde o berço
