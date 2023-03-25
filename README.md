@@ -1,6 +1,6 @@
 ### Hello Github! Eu sou o Gabriel🚀
 
-- 🌱 Estudando atualmente Java <img align="center" alt="Gab-JAVA" height="10" width="20" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg" />
+- 🌱 Estudando atualmente Java <img align="center" alt="Gab-JAVA" height="20" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg" />
 - 🤔 Procuro ajudar e ser ajudado além de aprender cada dia uma coisa nova
 - 📫 Contate-me: dev.gabriel.amaral@gmail.com
 - ⚡ Fun fact: Apaixonado por tecnologia desde o berço
