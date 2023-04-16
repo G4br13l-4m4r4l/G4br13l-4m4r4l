@@ -5,6 +5,7 @@
 - 📫 Contate-me: dev.gabriel.amaral@gmail.com
 - ⚡ Fun fact: Apaixonado por tecnologia desde o berço
 
+<img align ="center" alt="coding" width=480 src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExYWVkYTYwNDJjNzlhYTY0NTZlZWVmMzQ0MjZiNjExNmY0YmQ3ZWQyNCZjdD1n/qgQUggAC3Pfv687qPC/giphy.gif"/> 
 
 <div align="center">
   <a href="https://github.com/G4br13l-4m4r4l">
