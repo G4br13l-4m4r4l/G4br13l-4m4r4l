@@ -6,7 +6,7 @@
 - ⚡ Fun fact: Apaixonado por tecnologia desde o berço
 
 <div align="center">
-<img margin-left=50px alt="coding" width=480 src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExYWVkYTYwNDJjNzlhYTY0NTZlZWVmMzQ0MjZiNjExNmY0YmQ3ZWQyNCZjdD1n/qgQUggAC3Pfv687qPC/giphy.gif"/> 
+<img margin-left=50px alt="coding" width=550 src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExYWVkYTYwNDJjNzlhYTY0NTZlZWVmMzQ0MjZiNjExNmY0YmQ3ZWQyNCZjdD1n/qgQUggAC3Pfv687qPC/giphy.gif"/> 
 </div>
 
 <div align="center">
