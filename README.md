@@ -1,3 +1,4 @@
+</div>
 ### Hello Github! Eu sou o Gabriel🚀
 
 - 🌱 Estudando atualmente Java <img align="center" alt="Gab-JAVA" height="20" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg" />
@@ -8,27 +9,21 @@
 <div align="center">
 <img margin-left=50px alt="coding" width=550 src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExYWVkYTYwNDJjNzlhYTY0NTZlZWVmMzQ0MjZiNjExNmY0YmQ3ZWQyNCZjdD1n/qgQUggAC3Pfv687qPC/giphy.gif"/> 
 </div>
+<br>
 <div align="center">
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=279FF7&center=true&width=435&lines=Bem-vindo+ao+meu+perfil!;Desenvolvedor+Java;Analista+e+Desenvolvedor+de+Sistemas;Aspirante+a+cientista+da+computa%C3%A7%C3%A3o!)](https://git.io/typing-svg)
-</div>
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=30&pause=1000&color=279FF7&center=true&width=461&height=74&lines=Bem-vindo+ao+meu+perfil!;Desenvolvedor+Java" alt="Typing SVG" /></a>
 <br>
 <div>
-  <img align="right" alt="Git-Computador" width="200px" height="200px" src="https://media.giphy.com/media/juua9i2c2fA0AIp2iq/giphy.gif"/>
+    <img align="right" alt="Git-Computador" width="200px" height="200px" src="https://media.giphy.com/media/juua9i2c2fA0AIp2iq/giphy.gif"/>
 </div>
-```js
-import Desenvolvedor from 'gabrielProgramando';
-class AboutMe extends Desenvolvedor {
-  nome     = 'Gabriel do Amaral';
-  area    = 'Back-end';
-  local = 'Goiânia, GO';
-  pronomes = 'ela / dela';
-}
-```
+
 <br>
 <br>
   <div align="center">
   <a href="https://github.com/G4br13l-4m4r4l">
   <img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=G4br13l-4m4r4l&layout=compact&langs_count=7&theme=tokyonight"/>
+  
+  
 </div>
 
 <div style="display: inline_block"><br>
