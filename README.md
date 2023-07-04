@@ -1,7 +1,7 @@
 </div>
 ### Hello Github! Eu sou o Gabriel🚀
 
-- 🌱 Estudando atualmente Java <img align="center" alt="Gab-JAVA" height="20" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg" />
+- 🌱 Estudando atualmente Java <img align="center" alt="Gab-JAVA" height="20" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original-wordmark.svg" />
 - 🤔 Procuro ajudar e ser ajudado além de aprender cada dia uma coisa nova
 - 📫 Contate-me: dev.gabriel.amaral@gmail.com
 - ⚡ Fun fact: Apaixonado por tecnologia desde o berço
@@ -28,6 +28,7 @@
 
 <div style="display: inline_block"><br>
 
+  <img align="center" alt="Gab-JAVA" height="50" width="60" src="ttps://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original-wordmark.svg" />
   <img align="center" alt="Gab-JAVA" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg" />
   <img align="center" alt="Gab-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Gab-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
