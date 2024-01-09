@@ -1,7 +1,7 @@
 </div>
 ### Hello Github! Eu sou o Gabriel🚀
 
-- 🌱 Estudando atualmente Python <img align="center" alt="Gab-Python" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
+- 🌱 Estudando atualmente React Redux <img align="center" alt="Gab-Redux" height="20" width="30" src="https://github.com/devicons/devicon/blob/v2.15.1/icons/redux/redux-original.svg" />
 - 🤔 Procuro ajudar e ser ajudado além de aprender cada dia uma coisa nova
 - 📫 Contate-me: dev.gabriel.amaral@gmail.com
 - ⚡ Fun fact: Apaixonado por tecnologia desde o berço
@@ -36,6 +36,7 @@
   <img align="center" alt="Gab-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
   <img align="center" alt="Gab-sass" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg">
   <img align="center" alt="Gab-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
+  <img align="center" alt="Gab-Redux" height="30" width="40" src="https://github.com/devicons/devicon/blob/v2.15.1/icons/redux/redux-original.svg">
 </div>
 
 ##
