@@ -1,7 +1,7 @@
 </div>
 ### Hello Github! Eu sou o Gabriel🚀
 
-- 🌱 Estudando atualmente React Redux <img align="center" alt="Gab-Redux" height="20" width="30" src="https://github.com/devicons/devicon/blob/v2.15.1/icons/redux/redux-original.svg" />
+- 🌱 Estudando atualmente C# <img align="center" alt="Gab-C#" height="20" width="30" src="https://github.com/devicons/devicon/blob/master/icons/csharp/csharp-original.svg" />
 - 🤔 Procuro ajudar e ser ajudado além de aprender cada dia uma coisa nova
 - 📫 Contate-me: dev.gabriel.amaral@gmail.com
 - ⚡ Fun fact: Apaixonado por tecnologia desde o berço
@@ -38,7 +38,7 @@
   <img align="center" alt="Gab-Bootstrap" height="30" width="40" src="https://github.com/devicons/devicon/blob/v2.15.1/icons/bootstrap/bootstrap-plain.svg">
   <img align="center" alt="Gab-Node" height="30" width="40" src="https://github.com/devicons/devicon/blob/v2.15.1/icons/nodejs/nodejs-plain.svg">
   <img align="center" alt="Gab-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
-  <img align="center" alt="Gab-Redux" height="30" width="40" src="https://github.com/devicons/devicon/blob/v2.15.1/icons/redux/redux-original.svg">
+  <img align="center" alt="Gab-C#" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/csharp/csharp-original.svg">
 </div>
 
 ##
