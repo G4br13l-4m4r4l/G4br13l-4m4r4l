@@ -1,7 +1,7 @@
 
 ## _Hello Github! I am Gabriel🚀
 
-### <img alt="loading"  align="center" height="60" width="90" src="https://i.pinimg.com/originals/18/ab/47/18ab473bfc12c28bda2631d66b101e3b.gif"> ==> Currently studying  <img align="center" alt="Gab-dotnet" height="50" width="60" src="https://github.com/devicons/devicon/blob/master/icons/dotnetcore/dotnetcore-original.svg" />
+### <img alt="loading"  align="center" height="60" width="90" src="https://i.pinimg.com/originals/18/ab/47/18ab473bfc12c28bda2631d66b101e3b.gif"> ==> Currently studying  <img align="center" alt="Gab-JAVA" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg" />
 
 ### <img align="center" height="60" width="90" src="https://i.pinimg.com/originals/6e/d5/d1/6ed5d17edc7859c15e4ba8b83186f3c6.gif" alt="connecting" /> ==> Contact me:   dev.gabriel.amaral@gmail.com |   <a href="https://www.linkedin.com/in/gabriel-do-amaral-198ba7245/"><img height="20" width="30" src="https://github.com/devicons/devicon/blob/master/icons/linkedin/linkedin-original.svg" alt="linkedin" /></a>
 <br>
@@ -25,7 +25,6 @@
   
   
 </div>
-
 <div style="display: inline_block"><br>
 
   <img align="center" alt="Gab-Python" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
@@ -37,6 +36,7 @@
   <img align="center" alt="Gab-Node" height="30" width="40" src="https://github.com/devicons/devicon/blob/v2.15.1/icons/nodejs/nodejs-plain.svg">
   <img align="center" alt="Gab-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
   <img align="center" alt="Gab-C#" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/csharp/csharp-original.svg">
+  <img align="center" alt="Gab-dotnet" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/dotnetcore/dotnetcore-original.svg" />
 </div>
 
 ##
