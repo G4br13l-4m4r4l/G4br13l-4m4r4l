@@ -1,7 +1,7 @@
 
 ## _Hello Github! I am Gabriel🚀
 
-### <img alt="loading"  align="center" height="60" width="90" src="https://i.pinimg.com/originals/18/ab/47/18ab473bfc12c28bda2631d66b101e3b.gif"> ==> Currently studying  <img align="center" alt="Gab-JAVA" height="50" width="60" src="https://github.com/devicons/devicon/blob/master/icons/spring/spring-original.svg" />
+### <img alt="loading"  align="center" height="60" width="90" src="https://i.pinimg.com/originals/18/ab/47/18ab473bfc12c28bda2631d66b101e3b.gif"> ==> Currently studying  <img align="center" alt="Gab-JAVA" height="50" width="60" src="https://github.com/devicons/devicon/blob/master/icons/dotnetcore/dotnetcore-original.svg" />
 
 ### <img align="center" height="60" width="90" src="https://i.pinimg.com/originals/6e/d5/d1/6ed5d17edc7859c15e4ba8b83186f3c6.gif" alt="connecting" /> ==> Contact me:   dev.gabriel.amaral@gmail.com |   <a href="https://www.linkedin.com/in/gabriel-do-amaral-198ba7245/"><img height="20" width="30" src="https://github.com/devicons/devicon/blob/master/icons/linkedin/linkedin-original.svg" alt="linkedin" /></a>
 <br>
